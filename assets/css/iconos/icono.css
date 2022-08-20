@@ -1,0 +1,5 @@
+.icono{
+    display: flex;
+    flex-direction: row;
+    margin: 0rem 25rem 0rem 25rem;
+}
